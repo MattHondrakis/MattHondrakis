@@ -4,8 +4,8 @@
 - 📫 How to reach me: hondrakma@gmail.com
    
 Datasets I found most interesting are:   
-  1. Starbucks *(First-Git)*
-  2. Heart  *(First-Git)*
+  1. [Starbucks](https://github.com/MattHondrakis/First-Git/tree/main/12-21-21) *(First-Git)*
+  2. [Heart](https://github.com/MattHondrakis/First-Git/tree/main/01-06-22)  *(First-Git)*
 
 
 P.S. I tend to jump from one dataset to the next!
