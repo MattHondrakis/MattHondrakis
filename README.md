@@ -8,7 +8,8 @@ Datasets I found most interesting are:
   2. [Heart](https://github.com/MattHondrakis/First-Git/blob/main/01-06-22/heart.md)  *(First-Git)*
 
 
-P.S. I tend to jump from one dataset to the next!
+Actively working on: 
+   * [Crossword Puzzle](https://github.com/MattHondrakis/TidyTuesday/blob/main/04-19-22/Crossword-Puzzle.md)
 
 
-Actively working on: [Crossword Puzzle](https://github.com/MattHondrakis/TidyTuesday/blob/main/04-19-22/Crossword-Puzzle.md)
+I tend to jump from one dataset to the next!
