@@ -10,6 +10,7 @@ Datasets I found most interesting are:
 
 Actively working on: 
    * [Crossword Puzzle](https://github.com/MattHondrakis/TidyTuesday/blob/main/04-19-22/Crossword-Puzzle.md)
+   * [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYC-House-Prices.md)
 
 
 I tend to jump from one dataset to the next!
