@@ -5,6 +5,7 @@
    
 Datasets I found most interesting are:   
   1. [Starbucks](https://github.com/MattHondrakis/First-Git/blob/main/12-21-21/Starbucks.md) *(First-Git)*
+      * Logistic regression, predicting whether a drink is a frappuccino based on sodium, accounting for size.
   2. [Heart](https://github.com/MattHondrakis/First-Git/blob/main/01-06-22/heart.md)  *(First-Git)*
 
 
