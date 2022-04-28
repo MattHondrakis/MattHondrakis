@@ -6,7 +6,7 @@
 
 ### Datasets I found most interesting:   
   1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYC-House-Prices.md) *(DataAnalysis)*
-      * **Linear Regression** and **Random Forrest** models, predicting prices of Real Estate properties in NYC. A good example of pulling information from data 
+      * **GAM**, **Random Forrest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. A good example of pulling information from data 
         by mutating columns. Models are then compared against eachother by key metrics, such as rsq and rmse.
   2. [Starbucks](https://github.com/MattHondrakis/First-Git/blob/main/12-21-21/Starbucks.md) *(First-Git)*
       * **Logistic regression model** predicting whether a drink is a Frappuccino based on sodium (mg), accounting for size. The status of 'Frappuccino' is pulled 
