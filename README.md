@@ -16,7 +16,7 @@
 
 
 Actively working on: 
-   * [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYC-House-Prices.md) *(DataAnalysis)*
+   * [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)*
 
 
 Note: I tend to jump from one dataset to the next!
