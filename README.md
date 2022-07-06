@@ -17,7 +17,5 @@
 
 Actively working on: 
    * [San Fransisco Rentals](https://github.com/MattHondrakis/TidyTuesday/blob/main/07-05-22/San-Fransisco-Rentals.md) *(TidyTuesday)*
-   * [NYC Emergency Visits](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20Emergency%20Visits/NYC-Emergency-Visits.md) *(DataAnalysis)*
-
 
 Note: I tend to jump from one dataset to the next!
