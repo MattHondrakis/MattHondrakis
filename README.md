@@ -17,6 +17,6 @@
 
 Actively working on: 
    * [San Fransisco Rentals](https://github.com/MattHondrakis/TidyTuesday/blob/main/07-05-22/San-Fransisco-Rentals.md) *(TidyTuesday)*
-   * [European Flights](https://github.com/MattHondrakis/TidyTuesday/blob/main/07-12-22/European-Flights.md)
+   * [European Flights](https://github.com/MattHondrakis/TidyTuesday/blob/main/07-12-22/European-Flights.md) *(TidyTuesday)*
 
 Note: I tend to jump from one dataset to the next!
