@@ -17,7 +17,7 @@
 
 
 Actively working on: 
-   * [Technology Adoption](https://github.com/MattHondrakis/TidyTuesday/blob/main/07-19-22/Technology.md) *(TidyTuesday)*
+   * [Characters](https://github.com/MattHondrakis/TidyTuesday/blob/main/08-16-22/Characters.md) *(TidyTuesday)*
 
 
 Note: I tend to jump from one dataset to the next!
