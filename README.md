@@ -7,7 +7,7 @@
 
 ### Datasets I found most interesting:   
   1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)*
-      * **GAM**, **Random Forrest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. The type of property (Condo, Apartment, etc.)           is extracted from the *home_details* variable, which plays a critical role in the modeling process. Models are then compared against eachother by key metrics,           such as R<sup>2</sup> and Root Mean Squared Error.
+      * **GAM**, **Random Forrest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. The type of property (Condo, Apartment, etc.)           is extracted from the *home_details* variable, which plays a crucial role in the modeling process. Models are then compared against eachother by key metrics,           such as R<sup>2</sup> and Root Mean Squared Error.
   2. [Starbucks](https://github.com/MattHondrakis/First-Git/blob/main/12-21-21/Starbucks.md) *(First-Git)*
       * **Logistic regression model** predicting whether a drink is a Frappuccino based on sodium (mg), accounting for size. The status of 'Frappuccino' is pulled 
         from the name of the drink.
