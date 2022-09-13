@@ -12,7 +12,7 @@
       * **Logistic regression model** predicting whether a drink is a Frappuccino based on sodium (mg), accounting for size. The status of 'Frappuccino' is pulled 
         from the name of the drink.
   3. [Heart](https://github.com/MattHondrakis/First-Git/blob/main/01-06-22/heart.md)  *(First-Git)*
-      * Comparison of 2 **logistic regression models**, predicting heart disease. One uses all variables as predictors and the second model 
+      * Comparison of 2 **logistic regression models**, predicting heart disease. The first model uses all variables as predictors and the second model 
         uses the 4 most influential variables. 
 
 
