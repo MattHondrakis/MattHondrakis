@@ -17,7 +17,7 @@
 
 
 Actively working on: 
-   * [Bigfoot](https://github.com/MattHondrakis/TidyTuesday/blob/main/09-13-22/Bigfoot.md) *(TidyTuesday)*
+   * [Artists](https://github.com/MattHondrakis/TidyTuesday/blob/main/09-27-22/Artists.md) *(TidyTuesday)*
 
 
 Note: I tend to jump from one dataset to the next!
