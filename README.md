@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattHondrakis
-- 🧠 I’m interested in Probability/Statistics, Actuarial Science, and Data Science
-- 🌱 I’m currently learning Data Science on datacamp.com 
-- :trophy: I have a BS in Applied Mathematics from The City College of New York
+- 🧠 I’m interested in Probability/Statistics, Actuarial Science, and Data Science.
+- 🌱 I’m currently learning Data Science on datacamp.com and working towards my Google Analytics Certification.
+- :trophy: I have a BS in Applied Mathematics from The City College of New York.
 - 📫 How to reach me: hondrakma@gmail.com
    
 
