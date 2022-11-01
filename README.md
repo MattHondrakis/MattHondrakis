@@ -17,8 +17,7 @@
 
 
 Most Recent/Actively working on: 
-   * [Product Hunt](https://github.com/MattHondrakis/TidyTuesday/blob/main/10-4-22/Product.md) *(TidyTuesday)*
-   * [Yarn](https://github.com/MattHondrakis/TidyTuesday/blob/main/10-11-22/Ravelry-Yarn.md) *(TidyTuesday)*
+   * [Horror Movies]()*(TidyTuesday)*
 
 
 Note: I tend to jump from one dataset to the next!
