@@ -18,7 +18,6 @@
 
 Most Recent/Actively working on: 
    * [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)*
-   * [Horror Movies](https://github.com/MattHondrakis/TidyTuesday/blob/main/11-01-22/Horror-Movies.md) *(TidyTuesday)*
 
 
 Note: I tend to jump from one dataset to the next!
