@@ -14,6 +14,8 @@
   3. [Heart](https://github.com/MattHondrakis/First-Git/blob/main/01-06-22/heart.md)  *(First-Git)*
       * Comparison of 2 **logistic regression models**, predicting heart disease. The first model uses all variables as predictors and the second model 
         uses the 4 most influential variables. 
+  4. [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)*
+      * Google Analytics Case Study, analyzing a large dataset of more than **6 million** rows of data using R to find insights. Purpose of the Case Study is to get casual users of rides to convert to members. 
 
 
 Most Recent/Actively working on: 
