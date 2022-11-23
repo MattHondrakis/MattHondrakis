@@ -15,7 +15,7 @@
       * Comparison of 2 **logistic regression models**, predicting heart disease. The first model uses all variables as predictors and the second model 
         uses the 4 most influential variables. 
   4. [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)*
-      * Google Analytics Case Study (fictional company *Cyclistic*), analyzing a large dataset of more than **6 million** rows of data using R to find insights. The purpose of the Case Study is to get casual users to convert to memberships. Thorough exploratory data analysis with a conclusion providing suggests for improvement and steps moving forward.
+      * Google Analytics Case Study (fictional company *Cyclistic*), analyzing a large dataset of more than **6 million** rows of data using R to extract insights. The purpose of the Case Study is to get casual users to convert to memberships. Thorough exploratory data analysis with a conclusion providing suggests for improvement and steps moving forward.
 
 
 Most Recent/Actively working on: 
