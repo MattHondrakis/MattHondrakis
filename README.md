@@ -19,7 +19,7 @@
 
 
 Most Recent/Actively working on: 
-   * [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)*
+   * N/A
 
 
 Note: I tend to jump from one dataset to the next!
