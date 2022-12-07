@@ -19,7 +19,7 @@
 
 
 Most Recent/Actively working on: 
-* [Masters Final Project: Fall Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Fall%20Placement/Masters-Project-Fall-Placement.md)*(Data Analysis)
+* [Masters Final Project: Fall Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Fall%20Placement/Masters-Project-Fall-Placement.md)*(Data Analysis)*
 
 
 Note: I tend to jump from one dataset to the next!
