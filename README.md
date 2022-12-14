@@ -20,7 +20,7 @@
          The purpose of the Case Study is to get casual users to convert to memberships. Thorough exploratory data analysis with a conclusion providing suggestions for            improvement and steps moving forward.
   4. [Starbucks](https://github.com/MattHondrakis/First-Git/blob/main/12-21-21/Starbucks.md) *(First-Git)* 
       *  **One of the first real world datasets I ever worked on.**
-      *  **Logistic regression model** predicting whether a drink is a Frappuccino based on sodium (mg). The status of 'Frappuccino' is extracted 
+      *  **Logistic Regression** model predicting whether a drink is a *Frappuccino* based on sodium (mg). The status of 'Frappuccino' is extracted 
          from the name of the drink using text manipulation.
 
 
