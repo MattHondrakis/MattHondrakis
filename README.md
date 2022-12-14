@@ -11,7 +11,7 @@
          is extracted from the *home_details* variable, which plays a crucial role in the modeling process. Models are then compared against eachother by key metrics,            such as R<sup>2</sup> and Root Mean Squared Error.
   2. [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Fall%20Placement/Masters-Project-Fall-Placement.md)  *(DataAnalysis)*
       *  Validated data by checking for and appropriately dealing with missing values and outliers. Explored trends and correlations between different 
-         variables, utilizing visualizations and statistical tests. Afterwards, created two models (**Random Forest** and **Logistic Regression**) 
+         variables, utilizing visualizations and statistical tests. Subquently, created two models (**Random Forest** and **Logistic Regression**) 
          predicting whether an individual received a job offer with the best model’s values for accuracy and AUC being 0.853 and 0.932, respectively. Finally, 
          analyzed the *variable importance* of each predictor in both models. 
   3. [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)*
