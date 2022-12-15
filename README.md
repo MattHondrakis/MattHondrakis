@@ -6,19 +6,19 @@
    
 
 ### Datasets I found most interesting:   
-  1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)*
+  1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)* **Unstructed chronological analysis**
       *  **GAM**, **Random Forest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. The type of property (Condo, Apartment, etc.)
          is extracted from the *home_details* variable, which plays a crucial role in the modeling process. Models are then compared against eachother by key metrics,            such as R<sup>2</sup> and Root Mean Squared Error.
-  2. [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement.md)  *(DataAnalysis)*
+  2. [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement.md) *(DataAnalysis)* **Structured analysis**
       *  Validated data by checking for and appropriately dealing with missing values and outliers. Explored trends and correlations between different 
          variables, utilizing visualizations and statistical tests. Subquently, created two models (**Random Forest** and **Logistic Regression**) 
          predicting whether an individual received a job offer with the best model’s values for accuracy and AUC being 0.853 and 0.932, respectively. Finally, 
          analyzed the *variable importance* of each predictor in both models and compared. 
-  3. [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)*
+  3. [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)* **Structured analysis**
       *  Google Analytics Case Study (fictional company *Cyclistic*), analyzing a large dataset of more than **6 million** rows of data using R to extract 
          insights. 
          The purpose of the Case Study is to get casual users to convert to memberships. Thorough exploratory data analysis with a conclusion providing suggestions for            improvement and steps moving forward.
-  4. [Starbucks](https://github.com/MattHondrakis/First-Git/blob/main/12-21-21/Starbucks.md) *(First-Git)* 
+  4. [Starbucks](https://github.com/MattHondrakis/First-Git/blob/main/12-21-21/Starbucks.md) *(First-Git)* **Unstructured chronological analysis**
       *  **One of the first real world datasets I ever worked on.**
       *  **Logistic Regression** model predicting whether a drink is a *Frappuccino* based on sodium (mg). The status of 'Frappuccino' is extracted 
          from the name of the drink using text manipulation.
