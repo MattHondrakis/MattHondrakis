@@ -6,7 +6,7 @@
    
 
 ### Datasets I found most interesting:   
-  1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)* **Unstructed chronological analysis**
+  1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)* <ins> **Unstructed chronological analysis** </ins>
       *  **GAM**, **Random Forest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. The type of property (Condo, Apartment, etc.)
          is extracted from the *home_details* variable, which plays a crucial role in the modeling process. Models are then compared against eachother by key metrics,            such as R<sup>2</sup> and Root Mean Squared Error.
   2. [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement.md) *(DataAnalysis)* **Structured analysis**
