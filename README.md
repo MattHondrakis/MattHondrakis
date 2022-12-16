@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattHondrakis
 - 🧠 I’m interested in Probability/Statistics, Actuarial Science, and Data Science.
-- 🌱 I received an Associate Data Scientist Certification from DataCamp and Google Analytics Certificate from Google.
+- 🌱 I received a Data Scientist Associate Certification from DataCamp and Google Analytics Certificate from Google.
 - :trophy: I have a BS in Applied Mathematics from The City College of New York.
 - 📫 How to reach me: hondrakma@gmail.com
    
