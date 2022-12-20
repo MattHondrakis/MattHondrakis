@@ -6,9 +6,9 @@
    
 
 ### Datasets I found most interesting:   
-🧩 => Structured Analysis
-💫 => Unstructered Chronological Analysis
-💻 => Machine Learning Model
+🧩 => Structured Analysis     
+💫 => Unstructered Chronological Analysis     
+💻 => Machine Learning Model     
 
   1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)* 💫 💻
       *  **GAM**, **Random Forest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. The type of property (Condo, Apartment, etc.)
