@@ -35,4 +35,4 @@ Note: I tend to jump from one dataset to the next!
 
 ## Featured Visual:
 
-![](Masters-Project-Fall-Placement_files/figure-gfm/unnamed-chunk-36-1.png)<!-- -->
+![](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement_files/figure-gfm/unnamed-chunk-36-1.png)
