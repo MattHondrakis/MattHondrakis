@@ -34,5 +34,4 @@ Most Recent/Actively working on:
 Note: I tend to jump from one dataset to the next!
 
 ## Featured Visual: Weather Forecasts
-### Average Precipitation by State
 ![](https://github.com/MattHondrakis/TidyTuesday/blob/main/12-20-22/Weather-Forecasts_files/figure-gfm/3dmap.png)
