@@ -29,7 +29,7 @@
 
 
 Most Recent/Actively working on: 
-* [Weather Forecasts](https://github.com/MattHondrakis/TidyTuesday/blob/main/12-20-22/Weather-Forecasts.md) *(TidyTuesday)*
+* [Artist History](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-17-23/Artist-History.md) *(TidyTuesday)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
