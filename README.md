@@ -34,4 +34,4 @@ Most Recent/Actively working on:
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
 ### Featured Visual: [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement.md)
-![](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement_files/figure-gfm/unnamed-chunk-36-1.png)
+![](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies_files/figure-gfm/unnamed-chunk-16-1.png)
