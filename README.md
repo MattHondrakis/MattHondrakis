@@ -29,8 +29,10 @@
 
 
 Most Recent/Actively working on: 
-* [Cats UK](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-31-23/UK-Cats.md) *(TidyTuesday)*
-   * [Python Version](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
+
+**Cats UK**
+   * [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-31-23/UK-Cats.md) *(TidyTuesday)*
+   * [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
