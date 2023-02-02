@@ -5,7 +5,7 @@
 - 📫 How to reach me: hondrakma@gmail.com
    
 
-### Datasets I found most interesting:   
+## Datasets I found most interesting:   
 🧩 => Structured Analysis     
 💫 => Unstructered Chronological Analysis     
 💻 => Machine Learning Model     
@@ -28,9 +28,9 @@
          from the name of the drink using text manipulation.
 
 
-Most Recent/Actively working on: 
+## Most Recent/Actively working on: 
 
-📊**Cats UK**📊
+**Cats UK**
    * [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-31-23/UK-Cats.md) *(TidyTuesday)*
    * [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
 
