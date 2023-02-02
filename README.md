@@ -30,13 +30,12 @@
 
 ## Most Recent/Actively working on: 
 
-### Dataset: <ins>Cats in the UK</ins>
-   * [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-31-23/UK-Cats.md) *(TidyTuesday)*
-   * [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
-
 ### Dataset: <ins>Tech Stock Prices</ins>
    - [R](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) *(DataAnalysis)*
 
+### Dataset: <ins>Cats in the UK</ins>
+   * [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-31-23/UK-Cats.md) *(TidyTuesday)*
+   * [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
