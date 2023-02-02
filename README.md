@@ -39,5 +39,5 @@
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
-### Featured Visual: [Horror Movies](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies.md)
+## Featured Visual: [Horror Movies](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies.md)
 ![](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies_files/figure-gfm/unnamed-chunk-16-1.png)
