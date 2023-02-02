@@ -35,7 +35,7 @@
    * [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
 
 **Dataset:** <ins>Tech Stock Prices</ins>
-   - [Tech Stock Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) *(DataAnalysis)*
+   - [R](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) *(DataAnalysis)*
 
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
