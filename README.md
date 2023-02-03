@@ -12,7 +12,7 @@
 
   1. [NYC House Prices](https://github.com/MattHondrakis/DataAnalysis/blob/main/NYC%20House%20Prices/NYCHousePrices.md) *(DataAnalysis)* 💫 💻
       *  **GAM**, **Random Forest** and **Linear Regression** models, predicting prices of Real Estate properties in NYC. The type of property (Condo, Apartment, etc.)
-         is extracted from the *home_details* variable, which plays a crucial role in the modeling process. Models are then compared against eachother by key metrics,            such as <ins>R<sup>2</sup></ins> and Root Mean Squared Error.
+         is extracted from the *home_details* variable, which plays a crucial role in the modeling process. Models are then compared against eachother by key metrics,            such as <ins>R<sup>2</sup></ins> and <ins>Root Mean Squared Error</ins>.
   2. [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement.md) *(DataAnalysis)* 🧩 💻
       *  Validated data by checking for and appropriately dealing with missing values and outliers. Explored trends and correlations between different 
          variables, utilizing visualizations and statistical tests. Subquently, created two models (**Random Forest** and **Logistic Regression**) 
