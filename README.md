@@ -16,7 +16,7 @@
   2. [Job Placement](https://github.com/MattHondrakis/DataAnalysis/blob/main/Masters%20Project%20Job%20Placement/Masters-Project-Fall-Placement.md) *(DataAnalysis)* 🧩 💻
       *  Validated data by checking for and appropriately dealing with missing values and outliers. Explored trends and correlations between different 
          variables, utilizing visualizations and statistical tests. Subquently, created two models (**Random Forest** and **Logistic Regression**) 
-         predicting whether an individual received a job offer with the best model’s values for accuracy and AUC being 0.853 and 0.932, respectively. Finally, 
+         predicting whether an individual received a job offer, with the best model’s values for *accuracy* and *AUC* being 0.853 and 0.932, respectively. Finally, 
          analyzed the *variable importance* of each predictor in both models and compared. 
   3. [Coursera Case Study: Bikes](https://github.com/MattHondrakis/DataAnalysis/blob/main/Coursera%20Case%20Study/Bikes.md) *(DataAnalysis)* 🧩
       *  Google Analytics Case Study (fictional company *Cyclistic*), analyzing a large dataset of more than **6 million** rows of data using R to extract 
