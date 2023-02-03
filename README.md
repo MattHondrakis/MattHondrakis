@@ -30,7 +30,7 @@
 
 ## Most Recent/Actively working on: 
 
-(Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>**Python**</ins>)
+Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>**Python**</ins>
 
 ### Dataset: <ins>Tech Stock Prices</ins>
    - [R](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) *(DataAnalysis)*
