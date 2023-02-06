@@ -42,6 +42,9 @@ Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>*
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
 ## Featured Visuals: 
+[<img src="https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices_files/figure-gfm/unnamed-chunk-5-1.png" width=50% height=50%>](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md)
+
+
 [![](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices_files/figure-gfm/unnamed-chunk-5-1.png)](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md)
 
 [![](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies_files/figure-gfm/unnamed-chunk-16-1.png)](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies.md)
