@@ -43,4 +43,4 @@ Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>*
 
 ## Featured Visuals: 
 
-[<img src="https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices_files/figure-gfm/unnamed-chunk-5-1.png" width=40% height=50%>](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) [<img src="https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies_files/figure-gfm/unnamed-chunk-16-1.png" width=40% height=50%>](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies.md)
+[<img src="https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices_files/figure-gfm/unnamed-chunk-5-1.png" width=49% height=50%>](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) [<img src="https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies_files/figure-gfm/unnamed-chunk-16-1.png" width=49% height=50%>](https://github.com/MattHondrakis/TidyTuesday/blob/main/2022/11-01-22/Horror-Movies.md)
