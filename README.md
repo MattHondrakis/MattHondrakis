@@ -32,12 +32,8 @@
 
 Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>**Python**</ins>
 
-### Dataset: <ins>Tech Stock Prices</ins>
-   - [R](https://github.com/MattHondrakis/DataAnalysis/blob/main/Tech%20Stock%20Prices/Tech-Stock-Prices.md) *(DataAnalysis)*
-
-### Dataset: <ins>Cats in the UK</ins>
-   * [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/01-31-23/UK-Cats.md) *(TidyTuesday)*
-   * [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Cats%20UK.ipynb) *(Python-Data-Science)*
+### Dataset: <ins>Drugs</ins>
+   - [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/03-14-23/Drugs.md) *(TidyTuesday)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
