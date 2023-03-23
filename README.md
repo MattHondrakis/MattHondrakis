@@ -34,6 +34,7 @@ Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>*
 
 ### Dataset: <ins>Drugs</ins>
    - [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/03-14-23/Drugs.md) *(TidyTuesday)*
+   - [Python](https://github.com/MattHondrakis/Python-Data-Science/blob/main/Drugs.ipynb) *(Python-Data-Science)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
