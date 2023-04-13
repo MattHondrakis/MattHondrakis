@@ -32,7 +32,7 @@
 
 Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>**Python**</ins>
 
-### Dataset: <ins>Drugs</ins>
+### Dataset: <ins>Premier League</ins>
    - [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/04-6-23/Premier-League.md) *(TidyTuesday)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
