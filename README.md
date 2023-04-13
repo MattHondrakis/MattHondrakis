@@ -33,7 +33,9 @@
 Analyses are usually done in <ins>**R**</ins> but sometimes replicated in <ins>**Python**</ins>
 
 ### Dataset: <ins>Premier League</ins>
-   - [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/04-6-23/Premier-League.md) *(TidyTuesday)*
+   - [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/04-06-23/Premier-League.md) *(TidyTuesday)*
+### Dataset: <ins>Egg Production</ins>
+   - [R](https://github.com/MattHondrakis/TidyTuesday/blob/main/2023/04-13-23/Egg-Production.md) *(TidyTuesday)*
 
 **Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
