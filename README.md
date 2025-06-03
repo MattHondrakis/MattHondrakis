@@ -3,7 +3,10 @@
 - 🌱 I received a Data Scientist Associate Certification from DataCamp and Google Data Analytics Certificate from Coursera.
 - :trophy: I have a BS in Applied Mathematics from The City College of New York.
 - 📫 How to reach me: hondrakma@gmail.com
-   
+
+## Most Recent/Actively working on: 
+
+Building apps/websites, currently using vercel: [Website](https://website-rose-theta-10.vercel.app/)
 
 ## Datasets I found most interesting:   
 🧩 => Structured Analysis     
@@ -26,13 +29,6 @@
       *  **One of the first real world datasets I ever worked on.**
       *  **Logistic Regression** model predicting whether a drink is a *Frappuccino* based on sodium (mg). The status of 'Frappuccino' is extracted 
          from the name of the drink using text manipulation.
-
-
-## Most Recent/Actively working on: 
-
-Building apps/websites, currently using vercel: [Website](https://website-rose-theta-10.vercel.app/)
-
-**Note: For the sake of practice, I tend to jump from one dataset to the next.**
 
 ## Featured Visuals: Click Image to View Analysis
 
